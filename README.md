@@ -87,3 +87,7 @@ Author
 
 Shruti Sharma
 B.Tech – Data Science
+
+Dashboard Preview
+
+![Customer Segmentation Dashboard](dashboard.png)
