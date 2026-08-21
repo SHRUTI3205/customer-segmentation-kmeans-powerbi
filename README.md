@@ -90,4 +90,4 @@ B.Tech – Data Science
 
 Dashboard Preview
 
-![Customer Segmentation Dashboard](Dashboard.png)
+![Customer Segmentation Dashboard](Dashboard.mp4.mp4)
